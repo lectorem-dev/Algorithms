@@ -9,14 +9,12 @@ public class SequentialCharacters {
             if (input.charAt(i) == input.charAt(i - 1)) {
                 count++;
             } else {
-                maxCount = maxCount < count ? count : maxCount;
+                maxCount = Math.max(maxCount, count);
                 count = 1;
             }
         }
 
-        maxCount = maxCount < count ? count : maxCount;
-
-         return maxCount;
+         return Math.max(maxCount, count);
     }
 
     public static void main(String[] args) {

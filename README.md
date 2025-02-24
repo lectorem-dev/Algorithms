@@ -22,6 +22,8 @@
 
 ## Solution 
 
+[RemoveDuplicatesFromSortedArray](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - потрясающе кривая задача, input массив является ответом, его нужно изменять :D
+
 [BusyStudent](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) 
 
 [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists) - слияние односвязных спиосков 

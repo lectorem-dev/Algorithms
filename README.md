@@ -14,8 +14,24 @@
 
 Тренировка алгоритмического мышления и подготовка к отборочному этапу собеседования в Яндекс.
 
-## Solution 
+## Ресурсы
 
 [CodeRun - задачи от Яндекса](https://coderun.yandex.ru)
 
 [leetcode](https://leetcode.com/problem-list/ocywzq52/)
+
+## Solution 
+
+[BusyStudent](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) 
+
+[MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists) - слияние односвязных спиосков 
+
+[ValidParentheses](https://leetcode.com/problems/valid-parentheses) - проверка скобочной последователности
+
+[RomanToInteger](https://leetcode.com/problems/roman-to-integer)
+
+[SequentialCharacters](https://leetcode.com/problems/consecutive-characters)
+
+[MiddleNumber](https://coderun.yandex.ru/problem/median-out-of-three)
+
+[TwoSum](https://leetcode.com/problems/two-sum)

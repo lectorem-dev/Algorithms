@@ -22,6 +22,8 @@
 
 ## Solution 
 
+[FindIndexFirstOccurrenceString](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
+
 [RemoveDuplicatesFromSortedArray](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - потрясающе кривая задача, input массив является ответом, его нужно изменять :D
 
 [BusyStudent](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) 

@@ -22,6 +22,8 @@
 
 ## Solution 
 
+[SameTree](https://leetcode.com/problems/same-tree) - Обход двоичного дерева в ширину (BFS)
+
 [ReverseWordsStringIII](https://leetcode.com/problems/reverse-words-in-a-string-iii) - переворот слов в строке 
 
 [FindIndexFirstOccurrenceString](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
@@ -30,7 +32,9 @@
 
 [BusyStudent](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) 
 
-[MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists) - слияние односвязных спиосков 
+[MergeSortedArray]() - слияние отсортированных массивов
+
+[MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists) - слияние отсортированных односвязных спиосков 
 
 [ValidParentheses](https://leetcode.com/problems/valid-parentheses) - проверка скобочной последователности
 

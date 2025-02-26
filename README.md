@@ -59,3 +59,5 @@
 [RomanToInteger](https://leetcode.com/problems/roman-to-integer)
 
 [MiddleNumber](https://coderun.yandex.ru/problem/median-out-of-three)
+
+[PascalTriangle](https://leetcode.com/problems/pascals-triangle) - строим треугольник паскаля

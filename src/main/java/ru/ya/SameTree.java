@@ -17,7 +17,7 @@ class TreeNode {
 }
 
 public class SameTree {
-    public boolean isSameTree(TreeNode p, TreeNode q) {
+    public static boolean isSameTree(TreeNode p, TreeNode q) {
         if (p == null && q == null) return true; // Если оба пустые - они идентичны
         if (p == null || q == null) return false;
 
@@ -61,7 +61,6 @@ public class SameTree {
                 new TreeNode(3, new TreeNode(6), new TreeNode(7))
         );
 
-        SameTree checker = new SameTree();
-        System.out.println(checker.isSameTree(tree1, tree2));
+        System.out.println(isSameTree(tree1, tree2));
     }
 }

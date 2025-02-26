@@ -22,6 +22,8 @@
 
 ## Solution 
 
+[SymmetricTree](https://leetcode.com/problems/symmetric-tree) - Поиск в глубину (DFS) проходит дерево зеркально.
+
 [SameTree](https://leetcode.com/problems/same-tree) - Обход двоичного дерева в ширину (BFS)
 
 [ReverseWordsStringIII](https://leetcode.com/problems/reverse-words-in-a-string-iii) - переворот слов в строке 

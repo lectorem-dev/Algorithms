@@ -24,6 +24,8 @@
 
 ### Графы
 
+[BalancedBinaryTree](https://leetcode.com/problems/balanced-binary-tree) - Определяем баланс дерева используя рекурсивный DFS
+
 [MaximumDepthBinaryTree](https://leetcode.com/problems/maximum-depth-of-binary-tree) -  Поиск глубины графа (рекурсия/DFS/BFS)
 
 [SymmetricTree](https://leetcode.com/problems/symmetric-tree) - Поиск в глубину (DFS) проходит дерево зеркально.

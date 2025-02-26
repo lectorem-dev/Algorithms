@@ -22,9 +22,15 @@
 
 ## Solution 
 
+### Графы
+
+[MaximumDepthBinaryTree](https://leetcode.com/problems/maximum-depth-of-binary-tree) -  Поиск глубины графа (рекурсия/DFS/BFS)
+
 [SymmetricTree](https://leetcode.com/problems/symmetric-tree) - Поиск в глубину (DFS) проходит дерево зеркально.
 
 [SameTree](https://leetcode.com/problems/same-tree) - Обход двоичного дерева в ширину (BFS)
+
+### Массивы
 
 [ReverseWordsStringIII](https://leetcode.com/problems/reverse-words-in-a-string-iii) - переворот слов в строке 
 
@@ -36,14 +42,18 @@
 
 [MergeSortedArray]() - слияние отсортированных массивов
 
+[SequentialCharacters](https://leetcode.com/problems/consecutive-characters)
+
+[TwoSum](https://leetcode.com/problems/two-sum) - ищем в масиве два числа сумма которых образует заданное число 
+
+### Списки
+
 [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists) - слияние отсортированных односвязных спиосков 
 
-[ValidParentheses](https://leetcode.com/problems/valid-parentheses) - проверка скобочной последователности
+### Разное
+
+[ValidParentheses](https://leetcode.com/problems/valid-parentheses) - проверка скобочной последователности ❤️
 
 [RomanToInteger](https://leetcode.com/problems/roman-to-integer)
 
-[SequentialCharacters](https://leetcode.com/problems/consecutive-characters)
-
 [MiddleNumber](https://coderun.yandex.ru/problem/median-out-of-three)
-
-[TwoSum](https://leetcode.com/problems/two-sum)

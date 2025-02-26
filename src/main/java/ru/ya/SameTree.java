@@ -3,7 +3,7 @@ package ru.ya;
 import java.util.LinkedList;
 import java.util.Queue;
 
-import ru.ya.structures.*;
+import ru.ya.structures.TreeNode;
 
 public class SameTree {
     public static boolean isSameTree(TreeNode p, TreeNode q) {

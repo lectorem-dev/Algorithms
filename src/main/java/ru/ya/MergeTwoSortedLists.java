@@ -1,6 +1,6 @@
 package ru.ya;
 
-import ru.ya.structures.*;
+import ru.ya.structures.ListNode;
 
 public class MergeTwoSortedLists {
     static public ListNode mergeTwoLists(ListNode list1, ListNode list2) {

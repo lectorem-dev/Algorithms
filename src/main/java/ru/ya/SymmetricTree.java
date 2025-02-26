@@ -1,6 +1,6 @@
 package ru.ya;
 
-import ru.ya.structures.*;
+import ru.ya.structures.TreeNode;
 
 public class SymmetricTree {
     public static boolean isSymmetric(TreeNode root) {

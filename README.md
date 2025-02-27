@@ -54,6 +54,8 @@
 
 ## Разное
 
+[ValidPalindrome](https://leetcode.com/problems/valid-palindrome) - Палиндромы
+
 [BestTimeBuySellStock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - Поиск максимальной прибыли акций (перебор массива скользящим окном за O(n))
 
 [ValidParentheses](https://leetcode.com/problems/valid-parentheses) - проверка скобочной последователности ❤️

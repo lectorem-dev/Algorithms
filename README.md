@@ -20,9 +20,9 @@
 
 [leetcode](https://leetcode.com/problem-list/ocywzq52/)
 
-## Solution 
+# Solution 
 
-### Графы
+## Графы
 
 [BalancedBinaryTree](https://leetcode.com/problems/balanced-binary-tree) - Определяем баланс дерева используя рекурсивный DFS
 
@@ -32,7 +32,7 @@
 
 [SameTree](https://leetcode.com/problems/same-tree) - Обход двоичного дерева в ширину (BFS)
 
-### Массивы
+## Массивы
 
 [ReverseWordsStringIII](https://leetcode.com/problems/reverse-words-in-a-string-iii) - переворот слов в строке 
 
@@ -48,11 +48,13 @@
 
 [TwoSum](https://leetcode.com/problems/two-sum) - ищем в масиве два числа сумма которых образует заданное число 
 
-### Списки
+## Списки
 
 [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists) - слияние отсортированных односвязных спиосков 
 
-### Разное
+## Разное
+
+[BestTimeBuySellStock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - Поиск максимальной прибыли акций (перебор массива скользящим окном за O(n))
 
 [ValidParentheses](https://leetcode.com/problems/valid-parentheses) - проверка скобочной последователности ❤️
 

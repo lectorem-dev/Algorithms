@@ -52,6 +52,8 @@
 
 [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists) - слияние отсортированных односвязных спиосков 
 
+[LinkedListCycle](https://leetcode.com/problems/linked-list-cycle) - определяем есть ли цикл в списке
+
 ## Разное
 
 [SingleNumber](https://leetcode.com/problems/single-number) -  Поиск числа без пары в массиве используя XOR ❤️

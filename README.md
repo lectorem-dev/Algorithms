@@ -50,6 +50,8 @@
 
 ## Списки
 
+[ReverseLinkedList](https://leetcode.com/problems/reverse-linked-list) - разворачиваем односвязный список
+
 [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists) - слияние отсортированных односвязных спиосков 
 
 [LinkedListCycle](https://leetcode.com/problems/linked-list-cycle) - определяем есть ли цикл в списке

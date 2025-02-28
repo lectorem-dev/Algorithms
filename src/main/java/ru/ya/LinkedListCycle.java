@@ -2,6 +2,13 @@ package ru.ya;
 
 import ru.ya.structures.ListNode;
 
+/*
+* Используем два указателя:
+*   Медленный (slow): движется на 1 шаг за итерацию.
+*   Быстрый (fast): движется на 2 шага за итерацию.
+* Если fast догоняет slow, значит, есть цикл.
+*/
+
 public class LinkedListCycle {
     public boolean hasCycle(ListNode head) {
         if (head == null || head.next == null) {

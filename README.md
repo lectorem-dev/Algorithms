@@ -54,6 +54,8 @@
 
 ## Разное
 
+[SingleNumber](https://leetcode.com/problems/single-number) -  Поиск числа без пары в массиве используя XOR ❤️
+
 [ValidPalindrome](https://leetcode.com/problems/valid-palindrome) - Палиндромы
 
 [BestTimeBuySellStock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - Поиск максимальной прибыли акций (перебор массива скользящим окном за O(n))

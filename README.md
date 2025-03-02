@@ -52,6 +52,8 @@
 
 ## Списки
 
+[PalindromeLinkedList](https://leetcode.com/problems/palindrome-linked-list) - Является ли список полиндромом
+
 [ImplementQueueUsingStacks](https://leetcode.com/problems/implement-queue-using-stacks) - реализуем очередь (FIFO) через два стека 
  
 [ReverseLinkedList](https://leetcode.com/problems/reverse-linked-list) - разворачиваем односвязный список

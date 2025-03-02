@@ -64,6 +64,8 @@
 
 ## Разное
 
+[ValidAnagram](https://leetcode.com/problems/valid-anagram) - Являются ли строки анограмами
+
 [SingleNumber](https://leetcode.com/problems/single-number) -  Поиск числа без пары в массиве используя XOR ❤️
 
 [ValidPalindrome](https://leetcode.com/problems/valid-palindrome) - Палиндромы

@@ -34,6 +34,8 @@
 
 ## Строки 
 
+[FirstUniqueCharacter](https://leetcode.com/problems/first-unique-character-in-a-string) - Ищем первый неповторяющийся символ в строке 
+
 [JewelsAndStones](https://leetcode.com/problems/jewels-and-stones) - сколько символов строки A есть в строке B 
 
 [ValidAnagram](https://leetcode.com/problems/valid-anagram) - Являются ли строки анограмами

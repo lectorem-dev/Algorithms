@@ -34,6 +34,8 @@
 
 ## Массивы
 
+[SummaryRanges](https://leetcode.com/problems/summary-ranges) - диапазоны в массиве 
+
 [ReverseWordsStringIII](https://leetcode.com/problems/reverse-words-in-a-string-iii) - переворот слов в строке 
 
 [FindIndexFirstOccurrenceString](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)

@@ -24,6 +24,8 @@
 
 ## Графы
 
+[SumLeftLeaves](https://leetcode.com/problems/sum-of-left-leaves) - Сумма оставшихся листьев
+
 [BalancedBinaryTree](https://leetcode.com/problems/balanced-binary-tree) - Определяем баланс дерева используя рекурсивный DFS
 
 [MaximumDepthBinaryTree](https://leetcode.com/problems/maximum-depth-of-binary-tree) -  Поиск глубины графа (рекурсия/DFS/BFS)

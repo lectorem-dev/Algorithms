@@ -42,6 +42,8 @@
 
 ## Массивы
 
+[FindDifferenceTwoArrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) - Симметрическая разность массивов (not (A and B))
+
 [IntersectionTwoArraysII](https://leetcode.com/problems/intersection-of-two-arrays-ii) - Найти пересечение двух массивов
 
 [MoveZeroes](https://leetcode.com/problems/move-zeroes) - Перемещаем нули в правую часть

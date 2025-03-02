@@ -80,6 +80,8 @@
 
 ## Разное
 
+[GuessNumberHigherLower](https://leetcode.com/problems/guess-number-higher-or-lower) - Бинарный поиск, решающий задачу поиска числа от 0 до N c АPI
+
 [MissingNumber](https://leetcode.com/problems/missing-number) - ищем недостающие число в арифметической прогресии
 
 [SingleNumber](https://leetcode.com/problems/single-number) -  Поиск числа без пары в массиве используя XOR ❤️

@@ -86,6 +86,8 @@
 
 ## Разное
 
+[AddStrings](https://leetcode.com/problems/add-strings/description) - Имитируем сложение в столбик
+
 [GuessNumberHigherLower](https://leetcode.com/problems/guess-number-higher-or-lower) - Бинарный поиск, решающий задачу поиска числа от 0 до N c АPI
 
 [MissingNumber](https://leetcode.com/problems/missing-number) - ищем недостающие число в арифметической прогресии

@@ -52,6 +52,8 @@
 
 ## Списки
 
+[ImplementQueueUsingStacks](https://leetcode.com/problems/implement-queue-using-stacks) - реализуем очередь (FIFO) через два стека 
+ 
 [ReverseLinkedList](https://leetcode.com/problems/reverse-linked-list) - разворачиваем односвязный список
 
 [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists) - слияние отсортированных односвязных спиосков 

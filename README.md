@@ -32,6 +32,14 @@
 
 [SameTree](https://leetcode.com/problems/same-tree) - Обход двоичного дерева в ширину (BFS)
 
+## Строки 
+
+[JewelsAndStones](https://leetcode.com/problems/jewels-and-stones) - сколько символов строки A есть в строке B 
+
+[ValidAnagram](https://leetcode.com/problems/valid-anagram) - Являются ли строки анограмами
+
+[ValidPalindrome](https://leetcode.com/problems/valid-palindrome) - Палиндромы
+
 ## Массивы
 
 [SummaryRanges](https://leetcode.com/problems/summary-ranges) - диапазоны в массиве 
@@ -64,13 +72,9 @@
 
 ## Разное
 
-[MissingNumber](https://leetcode.com/problems/missing-number) - ищем недостающие число в арифметической прогресии 
-
-[ValidAnagram](https://leetcode.com/problems/valid-anagram) - Являются ли строки анограмами
+[MissingNumber](https://leetcode.com/problems/missing-number) - ищем недостающие число в арифметической прогресии
 
 [SingleNumber](https://leetcode.com/problems/single-number) -  Поиск числа без пары в массиве используя XOR ❤️
-
-[ValidPalindrome](https://leetcode.com/problems/valid-palindrome) - Палиндромы
 
 [BestTimeBuySellStock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - Поиск максимальной прибыли акций (перебор массива скользящим окном за O(n))
 

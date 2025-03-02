@@ -42,6 +42,8 @@
 
 ## Массивы
 
+[IntersectionTwoArraysII](https://leetcode.com/problems/intersection-of-two-arrays-ii) - Найти пересечение двух массивов
+
 [MoveZeroes](https://leetcode.com/problems/move-zeroes) - Перемещаем нули в правую часть
 
 [BinarySearch](https://leetcode.com/problems/binary-search) - Бинарный поиск по отсортированному массиву

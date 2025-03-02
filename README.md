@@ -42,6 +42,8 @@
 
 ## Массивы
 
+[BinarySearch](https://leetcode.com/problems/binary-search) - Бинарный поиск по отсортированному массиву
+
 [SummaryRanges](https://leetcode.com/problems/summary-ranges) - диапазоны в массиве 
 
 [ReverseWordsStringIII](https://leetcode.com/problems/reverse-words-in-a-string-iii) - переворот слов в строке 

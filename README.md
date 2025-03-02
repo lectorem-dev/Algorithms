@@ -42,6 +42,8 @@
 
 ## Массивы
 
+[MoveZeroes](https://leetcode.com/problems/move-zeroes) - Перемещаем нули в правую часть
+
 [BinarySearch](https://leetcode.com/problems/binary-search) - Бинарный поиск по отсортированному массиву
 
 [SummaryRanges](https://leetcode.com/problems/summary-ranges) - диапазоны в массиве 

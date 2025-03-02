@@ -64,6 +64,8 @@
 
 ## Разное
 
+[MissingNumber](https://leetcode.com/problems/missing-number) - ищем недостающие число в арифметической прогресии 
+
 [ValidAnagram](https://leetcode.com/problems/valid-anagram) - Являются ли строки анограмами
 
 [SingleNumber](https://leetcode.com/problems/single-number) -  Поиск числа без пары в массиве используя XOR ❤️

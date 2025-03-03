@@ -50,6 +50,8 @@
 
 ## Массивы
 
+[SquaresSortedArray](https://leetcode.com/problems/squares-of-a-sorted-array) - Вернуть отсортированный массив квадратов отсортированного массива
+
 [FindDifferenceTwoArrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) - Симметрическая разность массивов (not (A and B))
 
 [IntersectionTwoArraysII](https://leetcode.com/problems/intersection-of-two-arrays-ii) - Найти пересечение двух массивов

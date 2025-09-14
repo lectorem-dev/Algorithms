@@ -107,3 +107,7 @@
 [MiddleNumber](https://coderun.yandex.ru/problem/median-out-of-three)
 
 [PascalTriangle](https://leetcode.com/problems/pascals-triangle) - строим треугольник паскаля
+
+## Динамическое программирование 
+
+[KnightsMove](https://coderun.yandex.ru/problem/knight-move) - сколькими путями конь может пройти доску 

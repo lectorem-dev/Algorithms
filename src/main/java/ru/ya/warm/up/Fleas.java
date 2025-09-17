@@ -70,8 +70,8 @@ public class Fleas {
         int Q = Integer.parseInt(st.nextToken()); // количество блох на доске
 
         // Шахматная доска
-        int[][] dist = new int[N][M];
-        for (int[] row : dist) Arrays.fill(row, -1);
+        int[][] chessboard = new int[N][M];
+        for (int[] row : chessboard) Arrays.fill(row, -1);
 
         // Q строк по два числа — координаты каждой блохи
         int[][] fleas = new int[Q][2];
@@ -84,7 +84,7 @@ public class Fleas {
         // BFS от кормушки
         Queue<int[]> queue = new ArrayDeque<>();
         queue.add(new int[]{S, T});
-        dist[S][T] = 0;
+        chessboard[S][T] = 0;
 
         // Блохи по сути кони идущие к водопою
         int[][] moves = { {1,2},{2,1},{2,-1},{1,-2},{-1,-2},{-2,-1},{-2,1},{-1,2} };
@@ -97,8 +97,8 @@ public class Fleas {
                 int nx = x + m[0];
                 int ny = y + m[1];
 
-                if (nx >= 0 && nx < N && ny >= 0 && ny < M && dist[nx][ny] == -1) {
-                    dist[nx][ny] = dist[x][y] + 1;
+                if (nx >= 0 && nx < N && ny >= 0 && ny < M && chessboard[nx][ny] == -1) {
+                    chessboard[nx][ny] = chessboard[x][y] + 1;
                     queue.add(new int[]{nx, ny});
                 }
             }
@@ -111,11 +111,11 @@ public class Fleas {
             int fx = fleas[i][0];
             int fy = fleas[i][1];
 
-            if (dist[fx][fy] == -1) {
+            if (chessboard[fx][fy] == -1) {
                 possible = false;
                 break;
             } else {
-                result += dist[fx][fy];
+                result += chessboard[fx][fy];
             }
         }
 

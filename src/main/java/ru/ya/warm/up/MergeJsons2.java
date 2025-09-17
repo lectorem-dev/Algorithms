@@ -1,5 +1,7 @@
 package ru.ya.warm.up;
 
+// https://coderun.yandex.ru/problem/merge-jsons-2/analyses/2737 мой разбор ради мема :D
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

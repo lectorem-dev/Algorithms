@@ -90,6 +90,8 @@
 
 ## Разное
 
+[MinProductPair]() - Сделало мне больно на собесе
+
 [AddStrings](https://leetcode.com/problems/add-strings/description) - Имитируем сложение в столбик
 
 [GuessNumberHigherLower](https://leetcode.com/problems/guess-number-higher-or-lower) - Бинарный поиск, решающий задачу поиска числа от 0 до N c АPI
@@ -111,3 +113,9 @@
 ## Динамическое программирование 
 
 [KnightsMove](https://coderun.yandex.ru/problem/knight-move) - сколькими путями конь может пройти доску 
+
+## Яндекс, тренеровка по алгоритмам (разминка)
+
+[SortingReverseOrder](https://coderun.yandex.ru/problem/sorting-reverse-order/description) - Сортировка положительных чисел в обратном порядке
+
+[MergeJsons2](https://coderun.yandex.ru/problem/merge-jsons-2) - Опять JSON’ы перекладывать

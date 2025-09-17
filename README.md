@@ -116,6 +116,8 @@
 
 [Fleas](https://coderun.yandex.ru/problem/fleas) - Блохи (усложнение задачи KnightsMove) ❤️
 
+[TwoHorses](https://coderun.yandex.ru/problem/two-horses) - Два коня
+
 ## Яндекс, тренеровка по алгоритмам (разминка)
 
 [SortingReverseOrder](https://coderun.yandex.ru/problem/sorting-reverse-order/description) - Сортировка положительных чисел в обратном порядке

@@ -114,6 +114,8 @@
 
 [KnightsMove](https://coderun.yandex.ru/problem/knight-move) - сколькими путями конь может пройти доску 
 
+[Fleas](https://coderun.yandex.ru/problem/fleas) - Блохи (усложнение задачи KnightsMove) ❤️
+
 ## Яндекс, тренеровка по алгоритмам (разминка)
 
 [SortingReverseOrder](https://coderun.yandex.ru/problem/sorting-reverse-order/description) - Сортировка положительных чисел в обратном порядке
